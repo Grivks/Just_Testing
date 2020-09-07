@@ -1,0 +1,8 @@
+REPOSITORY
+Repository is a directory or storage space where your projects can live that contain folders and files, images, videos, spreadsheets, data sets, etc.
+Creating repository:
+- At the homepage, in the upper right corner click + and then select New repository.
+- Name the repository.
+- Write description of the repository (optional).
+- Select Add a README File to initialize the repository.
+- Then click Create Repository button.
